@@ -1,0 +1,14 @@
+Package: healthdata
+Type: Package
+Title: Some useful health datasets
+Version: 0.1.0
+Author: Imad EL BADISY
+Maintainer: Imad EL BADISY <elbadisyimad@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.1
