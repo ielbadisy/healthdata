@@ -1,0 +1,26 @@
+***
+_Assume we are interested in the following question : "whether or not adult patients with rheumatoid arthritis (RA) are at increased risk for heart attack (HA, myocardial infraction). After a literature review we defined the components of out epidemiological model as follow :
+
+-   Outcome :
+
+    -   `heart.attack` = HA (heart attack)
+
+-   Exposure :
+
+    -   `arthritis` = RA (rheumatoid arthritis)
+
+-   Confounders and risk factors :
+
+    -   `bmi` = body mass index
+    -   `diabetes` = have diabetes (Yes/No)
+    -   `smoke` = smoking (Yes/No)
+    -   `alcohol` = alcohol drinking (Yes/No)
+    -   `prehypertension` = prehypertension (Yes/No)
+    -   `age`
+    -   `vegetarian` = vegetarian regime (Yes/no)
+    -   `covered.health` = acces to health services (Yes/No)
+
+La base de données que vous allez utilisé provient du NHANES databas maintained directly by [CDC](https://www.cdc.gov/nchs/nhanes/index.htm)._
+
+***
+
