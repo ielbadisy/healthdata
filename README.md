@@ -11,7 +11,7 @@ educational and experimental purposes.
 
 ## Installation
 
-You can install the healthdata package like so:
+You can install the `healthdata` package like so:
 
 ``` r
 #install.packages("devtools")
