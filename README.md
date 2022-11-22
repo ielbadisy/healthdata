@@ -11,7 +11,7 @@ educational and experimental purposes.
 
 ## Installation
 
-You can install the development version of healthdata like so:
+You can install the healthdata package like so:
 
 ``` r
 #install.packages("devtools")
@@ -20,7 +20,7 @@ devtools::install_github("ielbadisy/healthdata")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is a basic example which shows you how load a data set from the `healthdata` package:
 
 ``` r
 library(healthdata)
